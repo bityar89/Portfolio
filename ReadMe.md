@@ -1,11 +1,11 @@
 <p align="center">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconsdb.com%2Fguacamole-green-icons%2Fgithub-11-icon.html&psig=AOvVaw1oL_i0tqgqNidiTgvX3kF_&ust=1686162628466000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCGh7ejr_8CFQAAAAAdAAAAABAK" width="726">
+      <img src="https://career.qatestlab.eu/wp-content/uploads/2021/03/logo-1200x627-1.jpg" alt="Project Logo" width="726">
 </p>
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+   <img src="https://img.shields.io/github/gist/stars/2e604675e9a74d25bcbd4548ac6870c0?color=15&label=test&logo=test&logoColor=15&style=social" alt="GitHub">
+   <img src="https://img.shields.io/twitch/status/testvsvvc?style=social" alt="Twitch">
+   <img src="https://img.shields.io/bundlephobia/min/html" alt="Size">
 </p>
 
 ## About
