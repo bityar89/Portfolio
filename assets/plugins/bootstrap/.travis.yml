@@ -44,3 +44,5 @@ notifications:
   slack: heybb:iz4wwosL0N0EdaX1gvgkU0NH
   webhooks:
     - http://savage1.twbsapps.com/savage/travis
+    
+theme: minima
