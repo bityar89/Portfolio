@@ -1,3 +1,4 @@
+theme: minima
 language: node_js
 git:
   depth: 10
@@ -45,4 +46,4 @@ notifications:
   webhooks:
     - http://savage1.twbsapps.com/savage/travis
     
-theme: minima
+
