@@ -1,28 +1,28 @@
-Free Bootstrap Theme for Developers & Startups
+<p align="center">
+      <img src="Project Logo Url" width="726">
+</p>
 
-Theme name:
-=======================================================================
-Appkit Landing
+<p align="center">
+   <img src="" alt="Unity Version">
+   <img src="" alt="Game Version">
+   <img src="" alt="License">
+</p>
 
-Theme version:
-=======================================================================
-v1.2
+## About
 
-Release Date:
-=======================================================================
-28 Dec 2016
+About Text Here
 
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+## Documentation
 
-Contact:
-=======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: themes@3rdwavemedia.com
-Twitter: @3rdwave_themes
+Documentation Here
 
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+## Distribute
+
+- [Service Name](Page Link)
+
+
+## Developers
+
+- [Delevoper Name](GitHub Profile Link)
+
+## License
